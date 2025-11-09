@@ -1,4 +1,5 @@
-import faiss
+# import faiss
+from langchain_community.vectorstores import faiss
 import numpy as np
 from models.embeddings import get_embedding_model
 from config.config import TOP_K_RESULTS

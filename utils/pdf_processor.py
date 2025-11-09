@@ -1,5 +1,6 @@
 from PyPDF2 import PdfReader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+# from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from config.config import CHUNK_SIZE, CHUNK_OVERLAP
 
 def extract_text_from_pdf(pdf_file):
