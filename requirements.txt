@@ -1,0 +1,20 @@
+# streamlit==1.28.0
+# langchain-groq==0.0.1
+# langchain-core==0.1.10
+# pypdf2==3.0.1
+# sentence-transformers==2.2.2
+# faiss-cpu==1.7.4
+# python-dotenv==1.0.0
+# duckduckgo-search==4.1.1
+# requests==2.31.0
+
+streamlit
+langchain-groq
+langchain-core
+pypdf2
+transformers>=4.30.0
+torch
+faiss-cpu
+python-dotenv
+duckduckgo-search
+numpy
