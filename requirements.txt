@@ -1,28 +1,11 @@
-streamlit==1.31.0
+streamlit
 langchain==0.1.0
 langchain-core==0.1.10
-langchain-community==0.0.20
-langchain-text-splitters==0.0.1
 langchain-groq==0.0.1
-langchain-google-genai==0.0.11
-langchain-openai==0.0.5
-pypdf2==3.0.1
-sentence-transformers==2.3.1
-torch==2.1.0
-faiss-cpu==1.7.4
-python-dotenv==1.0.0
-requests==2.31.0
-beautifulsoup4==4.12.3
-numpy==1.24.3
-
-# streamlit
-# langchain
-# langchain-groq
-# langchain-core
-# pypdf2
-# transformers>=4.30.0
-# torch
-# faiss-cpu
-# python-dotenv
-# duckduckgo-search
-# numpy
+pypdf2
+transformers>=4.30.0
+torch
+faiss-cpu
+python-dotenv
+duckduckgo-search
+numpy
